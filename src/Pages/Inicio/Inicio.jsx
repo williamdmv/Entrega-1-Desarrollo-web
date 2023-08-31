@@ -1,12 +1,17 @@
 
 import React from 'react';
 import Header from '../../Components/Shared/HeaderInicio.jsx';  
+import Frame from '../../Components/Shared/Footer.jsx';
+import Card_1 from '../../Components/Index/CardItem-1.jsx';
+import './Inicio.css';
 const About = () => {
     return (
         <div>
-            <Header />
-            <h2>About Page</h2>
-            <p>This is the about page content...</p>
+            <Header/>
+            <div className="black-background">
+                <Card_1/>
+            </div>
+            <Frame/>
         </div>
     );
 }

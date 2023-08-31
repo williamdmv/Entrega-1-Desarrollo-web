@@ -1,0 +1,28 @@
+.black-background {
+    background-color: #000000; /* Fondo negro */
+    height: 100vh; /* Altura del viewport */
+    margin: 0; /* Elimina el margen predeterminado */
+    overflow-x: hidden; /* Evita el desplazamiento horizontal */
+}
+
+/* Estilo para Header */
+header {
+    position: relative;
+    z-index: 3; /* un valor más alto que Card_1 y Frame */
+}
+
+/* Estilo para Card_1 */
+.black-background {
+    position: relative;
+    z-index: 1; /* un valor más bajo que Header y Frame */
+}
+
+/* Estilo para Frame */
+.frame {
+    position: relative;
+    z-index: 2; /* un valor más alto que Card_1 pero más bajo que Header */
+}
+
+
+
+
