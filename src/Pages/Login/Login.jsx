@@ -26,7 +26,9 @@ const Login = () => {
             <input type="password" id="password" name="password" placeholder="********" />
         </div>
 
-        <div className="text-wrapper-4">¿No estás registrado?</div>
+        <div className="text-wrapper-4">
+        <Link to="/registro">  ¿No estás registrado? </Link>
+            </div>
         <div className="text-wrapper-5">Crea una cuenta</div>
 
         <button className="btn-iniciar-sesion">
