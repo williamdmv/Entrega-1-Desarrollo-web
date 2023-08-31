@@ -2,6 +2,7 @@
 import "./Css_Styles/Registro_styles.css";
 import React from 'react';
 import { verificarCampos } from '../../Helpers/generalFunctions';
+import RegistroIMG from './Imagenes/RegistroIMG.png';
 
 
 const Registro = () => {
@@ -10,7 +11,7 @@ const Registro = () => {
     <div className="container-registro-wrapper">
         <div className="container-registro">
 
-            <img className="rectangle" alt="Rectangle" src="rectangle-1.png" />
+            <img className="rectangle" alt="Rectangle" src={RegistroIMG} />
 
             <div className="text-wrapper">Registrarse</div>
 
