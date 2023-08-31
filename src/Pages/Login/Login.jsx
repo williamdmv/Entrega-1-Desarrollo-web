@@ -29,6 +29,13 @@ const Login = () => {
         <a href="/registro">
             <div className="text-wrapper-5">Crea una cuenta</div>
         </a>
+        
+
+        <div className="text-wrapper-4">
+        <Link to="/registro">  ¿No estás registrado? </Link>
+            </div>
+        <div className="text-wrapper-5">Crea una cuenta</div>
+
         <button className="btn-iniciar-sesion">
             <div className="overlap-group-2">
                 <span className="text-wrapper-7">Iniciar sesión</span>
