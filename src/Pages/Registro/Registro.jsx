@@ -1,6 +1,8 @@
 
 import "./Css_Styles/Registro_styles.css";
 import React from 'react';
+import { verificarCampos } from '../../Helpers/generalFunctions';
+
 
 const Registro = () => {
     return (
@@ -31,12 +33,13 @@ const Registro = () => {
                 <input type="password" id="password" name="password" placeholder="********" />
             </div>
 
-            <div className="btn-registrarse">
+            <button className="btn-registrarse" onClick={verificarCampos}>
                 <div className="overlap-group-2">
                     <span className="text-wrapper-7">Registrarse</span>
                 <div className="rectangle-2"></div>
                 </div>
-            </div>
+            </button>
+
 
             <div className="text-wrapper-8">Confirmar Contraseña</div>
 
