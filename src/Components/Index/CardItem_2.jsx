@@ -1,15 +1,15 @@
 import React from "react";
 import "./CardItem_2.css";
-import Img2 from "./Rectangle_11.png"
+import Img4 from "./Rectangle2xs.png"
 
 
 const Image2 = () => {
 return (
     
-            <div className="box">
+            <div className="box1">
                 <div className="group">
                     <div className="overlap-group">
-                        <img className="rectangle" alt="Rectangle" src="rectangle-11.png" />
+                        <img className="rectangle" alt="Rectangle" src={Img4} />
                         <div className="div" />
                         <div className="text-wrapper">Black Clover</div>
                     </div>
