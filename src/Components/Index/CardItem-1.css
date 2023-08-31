@@ -6,8 +6,8 @@
 
 .box .group {
     height: 717px;
-    left: 0;
-    position: fixed;
+    left: 0cap;
+    position: relative;
     top: 0;
     width: 610px;
 }
