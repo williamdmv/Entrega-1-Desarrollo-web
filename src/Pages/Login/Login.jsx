@@ -25,10 +25,10 @@ const Login = () => {
             <label for="password" className="text-wrapper-6"></label>
             <input type="password" id="password" name="password" placeholder="********" />
         </div>
-
         <div className="text-wrapper-4">¿No estás registrado?</div>
-        <div className="text-wrapper-5">Crea una cuenta</div>
-
+        <a href="/registro">
+            <div className="text-wrapper-5">Crea una cuenta</div>
+        </a>
         <button className="btn-iniciar-sesion">
             <div className="overlap-group-2">
                 <span className="text-wrapper-7">Iniciar sesión</span>

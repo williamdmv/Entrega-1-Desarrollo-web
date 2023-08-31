@@ -208,3 +208,7 @@
     position: relative;
     box-sizing: border-box; /* Asegura que padding y border no añadan al tamaño total */
 }
+
+a {
+    text-decoration: none;
+}
