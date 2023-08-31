@@ -3,6 +3,7 @@ import "./Css_Styles/Login_Styles.css";
 /*import LoginForm from '../Components/Login/LoginForm';*/
 import Paisaje from "./Imagenes/Rectangle-1.png";
 
+
 const Login = () => {
   return (
     <div className="iniciar-sesion">
@@ -29,11 +30,11 @@ const Login = () => {
         <a href="/registro">
             <div className="text-wrapper-5">Crea una cuenta</div>
         </a>
-        
 
-        <div className="text-wrapper-4">
-        <Link to="/registro">  ¿No estás registrado? </Link>
-            </div>
+
+        <a href="/registro">
+            <div className="text-wrapper-4">¿No estás registrado?</div>
+        </a>
         <div className="text-wrapper-5">Crea una cuenta</div>
 
         <button className="btn-iniciar-sesion">

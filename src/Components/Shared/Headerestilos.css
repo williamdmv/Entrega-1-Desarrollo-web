@@ -33,6 +33,14 @@
 }
 
 .search-input {
+    order: 1; /* Esto asegura que el input esté primero */
+}
+
+.search-icon {
+    order: 2; /* Esto asegura que el ícono esté después del input */
+}
+
+.search-input {
     background-color: transparent;
     border: none;
     color: white;
