@@ -3,7 +3,7 @@ import "./Footerestilos.css";
 
 const Frame = () => {
     return (
-        <div className="frame">
+        <div className="framev2">
         <div className="social-midia">
         <div className="text-wrapper">Redes sociales</div>
         <div className="div">@animes_online</div>

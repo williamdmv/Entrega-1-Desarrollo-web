@@ -1,10 +1,10 @@
-.frame {
+.framev2 {
     background-color: #000000;
     height: 264px;
     position: relative;
 }
 
-.frame .social-midia {
+.framev2 .social-midia {
     height: 150px;
     left: 1095px;
     position: absolute;
@@ -12,7 +12,7 @@
     width: 192px;
 }
 
-.frame .text-wrapper {
+.framev2 .text-wrapper {
     color: #fbfbfb;
     font-family: "Roboto-Regular", Helvetica;
     font-size: 24px;
@@ -25,7 +25,7 @@
     white-space: nowrap;
 }
 
-.frame .div {
+.framev2 .div {
     color: #fbfbfb;
     font-family: "Roboto-Regular", Helvetica;
     font-size: 18px;
@@ -38,7 +38,7 @@
     white-space: nowrap;
 }
 
-.frame .text-wrapper-2 {
+.framev2 .text-wrapper-2 {
     color: #fbfbfb;
     font-family: "Roboto-Regular", Helvetica;
     font-size: 18px;
@@ -51,7 +51,7 @@
     white-space: nowrap;
 }
 
-.frame .text-wrapper-3 {
+.framev2 .text-wrapper-3 {
     color: #fbfbfb;
     font-family: "Roboto-Regular", Helvetica;
     font-size: 18px;
@@ -64,7 +64,7 @@
     white-space: nowrap;
 }
 
-.frame .vector {
+.framev2 .vector {
     height: 25px;
     left: 0;
     position: absolute;
@@ -72,7 +72,7 @@
     width: 25px;
 }
 
-.frame .img {
+.framev2 .img {
     height: 23px;
     left: 0;
     position: absolute;
@@ -80,7 +80,7 @@
     width: 28px;
 }
 
-.frame .vector-2 {
+.framev2 .vector-2 {
     height: 25px;
     left: 0;
     position: absolute;
@@ -88,7 +88,7 @@
     width: 25px;
 }
 
-.frame .menu-inferior {
+.framev2 .menu-inferior {
     height: 97px;
     left: 497px;
     position: absolute;
@@ -96,7 +96,7 @@
     width: 399px;
 }
 
-.frame .text-wrapper-4 {
+.framev2 .text-wrapper-4 {
     color: #fbfbfb;
     font-family: "Roboto-Regular", Helvetica;
     font-size: 24px;
@@ -109,7 +109,7 @@
     white-space: nowrap;
 }
 
-.frame .text-wrapper-5 {
+.framev2 .text-wrapper-5 {
     color: #fbfbfb;
     font-family: "Roboto-Regular", Helvetica;
     font-size: 24px;
@@ -122,7 +122,7 @@
     white-space: nowrap;
 }
 
-.frame .text-wrapper-6 {
+.framev2 .text-wrapper-6 {
     color: #fbfbfb;
     font-family: "Roboto-Regular", Helvetica;
     font-size: 24px;
@@ -135,7 +135,7 @@
     white-space: nowrap;
 }
 
-.frame .text-wrapper-7 {
+.framev2 .text-wrapper-7 {
     color: #fbfbfb;
     font-family: "Roboto-Regular", Helvetica;
     font-size: 24px;
@@ -148,7 +148,7 @@
     white-space: nowrap;
 }
 
-.frame .group {
+.framev2 .group {
     height: 42px;
     left: 0;
     position: absolute;
@@ -156,7 +156,7 @@
     width: 1442px;
 }
 
-.frame .p {
+.framev2 .p {
     color: #fbfbfb;
     font-family: "Aubrey-Regular", Helvetica;
     font-size: 12px;
@@ -169,7 +169,7 @@
     width: 1378px;
 }
 
-.frame .line {
+.framev2 .line {
     height: 2px;
     left: 0;
     position: absolute;
@@ -177,7 +177,7 @@
     width: 1440px;
 }
 
-.frame .group-2 {
+.framev2 .group-2 {
     height: 50px;
     left: 38px;
     position: absolute;
@@ -185,7 +185,7 @@
     width: 370px;
 }
 
-.frame .atenci-n-este-sitio {
+.framev2 .atenci-n-este-sitio {
     color: #fbfbfb;
     font-family: "Roboto-Regular", Helvetica;
     font-size: 12px;
@@ -197,7 +197,7 @@
     top: 22px;
 }
 
-.frame .text-wrapper-8 {
+.framev2 .text-wrapper-8 {
     color: #fbfbfb;
     font-family: "Roboto-Regular", Helvetica;
     font-size: 14px;
@@ -210,7 +210,7 @@
     white-space: nowrap;
 }
 
-.frame .logo {
+.framev2 .logo {
     height: 65px;
     left: 38px;
     position: absolute;
@@ -218,13 +218,13 @@
     width: 290px;
 }
 
-.frame .overlap {
+.framev2 .overlap {
     height: 65px;
     position: relative;
     width: 286px;
 }
 
-.frame .overlap-group {
+.framev2 .overlap-group {
     height: 63px;
     left: 5px;
     position: absolute;
@@ -232,7 +232,7 @@
     width: 281px;
 }
 
-.frame .text-wrapper-9 {
+.framev2 .text-wrapper-9 {
     color: #fbfbfb;
     font-family: "Aubrey-Regular", Helvetica;
     font-size: 48px;
@@ -245,7 +245,7 @@
     white-space: nowrap;
 }
 
-.frame .text-wrapper-10 {
+.framev2 .text-wrapper-10 {
     color: #fbfbfb;
     font-family: "Aubrey-Regular", Helvetica;
     font-size: 18px;
@@ -258,7 +258,7 @@
     white-space: nowrap;
 }
 
-.frame .vector-3 {
+.framev2 .vector-3 {
     height: 46px;
     left: 0;
     position: absolute;
