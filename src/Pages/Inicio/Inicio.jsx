@@ -4,6 +4,7 @@ import Header from '../../Components/Shared/HeaderInicio.jsx';
 import Frame from '../../Components/Shared/Footer.jsx';
 import Image2 from '../../Components/Index/CardItem_2.jsx';
 import Card_1 from '../../Components/Index/CardItem-1.jsx';
+import Img4 from '../../Components/Index/CardItem_3.jsx'
 import './Inicio.css';
 const About = () => {
     return (
@@ -12,6 +13,7 @@ const About = () => {
             <div className="black-background">
                 <Card_1/>
                 <Image2/>
+                <Img4/>
             </div>
             <Frame/>
         </div>

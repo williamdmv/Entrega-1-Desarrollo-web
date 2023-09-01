@@ -16,7 +16,7 @@ function App() {
         <Route path="/h" element={<Box />} />
         <Route path="/f" element={<Frame />} />
         <Route path="/i" element={<About />} />
-        <Route path="/" element={<Navigate to="/registro" replace />} />
+        <Route path="/" element={<Navigate to="/i" replace />} />
         {/* ... otras rutas */}
       </Routes>
     </Router>
